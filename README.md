@@ -54,7 +54,6 @@
 
 ## 🎖️ Achievements  
 🏆 **3rd Place in ACM’s HackVenture 1.0** for 'Janaswara' Project  
-🛠️ **Active NSS RIT Volunteer**  
 
 ---
 

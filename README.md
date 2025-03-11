@@ -35,7 +35,7 @@
 
 🔹 **Janaswara - Public Issue Reporting Web App**  
 🛠️ *Tech Stack:* Node.js, Express.js, MongoDB, HTML, CSS, JavaScript  
-📌 [GitHub Repo](https://github.com/KavanaN12/JanaSwara-public-issue-reporting-App)  
+📌 [GitHub Repo](https://github.com/KavanaN12/JanaSwara-public-issue-reporting-App-)  
 
 🔹 **Elder Care Alert - Mobile App for Medication Reminders**  
 🛠️ *Tech Stack:* Flutter, Dart  

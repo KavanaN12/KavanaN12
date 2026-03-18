@@ -58,9 +58,18 @@ MongoDB • Solidity • MATLAB • Unix Shell Programming
 ### HealSync — AI-Powered Medical Document Intelligence Platform
 - Built backend pipelines for **5+ medical document types**
 - Integrated OCR, NLP, and LLM-based summarization
-- Secured **3rd Place at HackMCE 2025**
+- Secured **2rd Place at HackMCE 2025**
 
 🔗 https://github.com/CoreAstra-HealSync/backend
+
+---
+
+### JanaSwara — Public Issue Reporting Platform
+- Built a full-stack civic reporting platform using **Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript**
+- Enabled users to report, track, and monitor local public issues through a structured complaint workflow
+- Secured **3rd Place at ACM HackVenture 1.0** conducted by Student Chapter of MSRIT
+
+🔗 https://github.com/KavanaN12/JanaSwara-public-issue-reporting-App
 
 ---
 
@@ -68,7 +77,7 @@ MongoDB • Solidity • MATLAB • Unix Shell Programming
 
 🏆 Academic Scholarship Holder  
 🏆 Samsung R&D Internship  
-🏆 Hackathon Winner — HealSync  
+🏆 Hackathon Winner — HealSync (Secured **2rd Place at HackMCE 2025**), JanaSwara (**3rd Place at ACM HackVenture 1.0**)
 
 ---
 

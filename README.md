@@ -1,69 +1,82 @@
-# 💻 Kavana N | Full-Stack Developer in the Making 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=KavanaN12&color=blue)
 
-## 🌟 About Me  
-🎓 **Student at Ramaiah Institute of Technology, Bangalore**  
-💡 Passionate about **Web Development**, **Full-Stack Development**, and **Problem Solving**  
-🔭 Currently exploring **Node.js, MongoDB**, and **Object-Oriented Programming with Java**  
-🎯 Eager to contribute to **innovative projects** and grow as a **developer**  
+# Hi, I'm Kavana N 👋
 
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🛠️ Backend & Tools  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🎓 Computer Science undergraduate at MS Ramaiah Institute of Technology, Bengaluru  
+🏅 Academic scholarship holder | CGPA: 9.19/10.00  
+💻 Student Intern at Samsung R&D, Bengaluru  
+🚀 Interested in Software Engineering, AI Systems, Mobile Computing, and Applied Research  
 
 ---
 
-## 📌 Projects  
+## About Me
 
-🔹 **Janaswara - Public Issue Reporting Web App**  
-🛠️ *Tech Stack:* Node.js, Express.js, MongoDB, HTML, CSS, JavaScript  
-📌 [GitHub Repo](https://github.com/KavanaN12/JanaSwara-public-issue-reporting-App-)  
+I enjoy building practical systems that combine strong engineering fundamentals with real-world problem solving. My work spans AI-enabled healthcare platforms, blockchain-integrated energy systems, mobile vector retrieval, and scalable application development.
 
-🔹 **Elder Care Alert - Mobile App for Medication Reminders**  
-🛠️ *Tech Stack:* Flutter, Dart  
-📌 [GitHub Repo](https://github.com/KavanaN12/Flutter-Elder-care-development)  
-
-🔹 **Amazon Front Page Clone**  
-🛠️ *Tech Stack:* HTML, CSS  
-📌 [GitHub Repo](https://github.com/KavanaN12/amazon-Frontend)  
-
-🔹 **More Cool Stuff**  
-💡 [Groceries Bill Calculator](https://github.com/KavanaN12/Generate-bill)  
-💡 [Library Management System](https://github.com/KavanaN12/java-programming-language)  
-💡 [Restaurant Ordering System](https://github.com/KavanaN12/java-programming-language)  
+- 🔭 Currently working on advanced software systems and research-driven implementations  
+- 🧠 Interested in intelligent systems, backend engineering, and scalable architectures  
+- 🤝 Experienced in hackathons, collaborative development, and technical presentations  
 
 ---
 
-## 🎖️ Achievements  
-🏆 **3rd Place in ACM’s HackVenture 1.0** for 'Janaswara' Project  
+## Technical Skills
+
+### Languages
+Java • Python • C/C++ • JavaScript • HTML • CSS
+
+### Development
+Node.js • AngularJS • Git • Docker • Kubernetes • CI/CD
+
+### Domains
+AI Systems • Mobile Computing • Blockchain • Smart Contracts • Digital Twin Systems
+
+### Tools
+MongoDB • Solidity • MATLAB • Unix Shell Programming
 
 ---
 
-## 📫 Connect With Me  
+## Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavana-n-829731274)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KavanaN12)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/akshay9449224752)  
+### Samsung R&D Institute, Bengaluru — Student Intern
+- Built an Android vector search engine in Kotlin for **60K embeddings**
+- Improved retrieval from **4.5s to 181ms**
+- Implemented **HNSW, IVFPQ, LSH, Hybrid, and Flat indexing**
 
 ---
 
-⚡ *"Code. Innovate. Repeat."* 🚀  
+## Featured Projects
 
+### Blockchain-Enabled Digital Twin for Wind Power Plant Management
+- Built a hybrid blockchain architecture reducing on-chain writes by **99%**
+- Processed **12,741 SCADA records** using simulation and ML forecasting
+- Developed Ethereum smart contracts for integrity verification and energy trading
+
+🔗 https://github.com/KavanaN12/HybridBlockchainTechForWPP
+
+---
+
+### HealSync — AI-Powered Medical Document Intelligence Platform
+- Built backend pipelines for **5+ medical document types**
+- Integrated OCR, NLP, and LLM-based summarization
+- Secured **3rd Place at HackMCE 2025**
+
+🔗 https://github.com/CoreAstra-HealSync/backend
+
+---
+
+## Achievements
+
+🏆 Academic Scholarship Holder  
+🏆 Samsung R&D Internship  
+🏆 Hackathon Winner — HealSync  
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/kavana-n-829731274  
+- GitHub: https://github.com/KavanaN12  
+
+---
+
+⭐ Always open to learning, building, and contributing to impactful systems.

@@ -1,91 +1,110 @@
+# Kavana N
 
-
-# Hi, I'm Kavana N 👋
-
-🎓 Computer Science undergraduate at MS Ramaiah Institute of Technology, Bengaluru  
-🏅 Academic scholarship holder | CGPA: 9.19/10.00  
-💻 Student Intern at Samsung R&D, Bengaluru  
-🚀 Interested in Software Engineering, AI Systems, Mobile Computing, and Applied Research  
+🎓 Computer Science undergraduate at M S Ramaiah Institute of Technology, Bengaluru  
+🏅 Academic Scholarship Holder | CGPA: 9.19/10.00  
+💻 Student Research Intern — Samsung PRISM Program  
+🚀 Interested in Systems Engineering, Cloud Security, Backend Development, and Applied AI Systems  
 
 ---
 
 ## About Me
 
-I enjoy building practical systems that combine strong engineering fundamentals with real-world problem solving. My work spans AI-enabled healthcare platforms, blockchain-integrated energy systems, mobile vector retrieval, and scalable application development.
+I enjoy building performance-oriented and implementation-focused software systems with strong foundations in algorithms, backend engineering, cloud infrastructure, and graph-based reasoning systems. My work spans cloud IAM attack-path analysis, vector indexing, blockchain-enabled digital twins, and AI-driven healthcare platforms.
 
-- 🔭 Currently working on advanced software systems and research-driven implementations  
-- 🧠 Interested in intelligent systems, backend engineering, and scalable architectures  
-- 🤝 Experienced in hackathons, collaborative development, and technical presentations  
+- 🔭 Currently working on systems-oriented and optimization-driven software implementations  
+- 🧠 Interested in backend infrastructure, cloud systems, scalable architectures, and applied AI  
+- 🤝 Experienced in hackathons, collaborative development, and technical project presentations  
 
 ---
 
 ## Technical Skills
 
 ### Languages
-Java • Python • C/C++ • JavaScript • HTML • CSS
+Java • Kotlin • Python • C/C++ • JavaScript
 
-### Development
-Node.js • AngularJS • Git • Docker • Kubernetes • CI/CD
+### Frameworks & Tools
+React.js • Node.js • Express.js • FastAPI • Docker • Kubernetes • Git • Linux
+
+### Databases & Systems
+MongoDB • Neo4j • Vector Indexing • Graph-Based Systems
+
+### Core CS
+Data Structures & Algorithms • Operating Systems • Computer Networks • OOP • DBMS • Multithreading
 
 ### Domains
-AI Systems • Mobile Computing • Blockchain • Smart Contracts • Digital Twin Systems
-
-### Tools
-MongoDB • Solidity • MATLAB • Unix Shell Programming
+Cloud Security • Backend Engineering • On-Device AI • Blockchain Systems • Digital Twin Architectures
 
 ---
 
 ## Experience
 
-### Samsung R&D Institute, Bengaluru — Student Intern
-- Built an Android vector search engine in Kotlin for **60K embeddings**
-- Improved retrieval from **4.5s to 181ms**
-- Implemented **HNSW, IVFPQ, LSH, Hybrid, and Flat indexing**
+### Samsung PRISM Program — Student Research Intern (May 2025 – Nov 2025)
+- Implemented an optimized Android vector indexing library in Kotlin for 60K embeddings with up to 25× faster retrieval performance
+- Designed and benchmarked HNSW, IVFPQ, LSH, Hybrid, and Flat indexing strategies for efficient ANN retrieval
+- Applied memory-aware optimizations including object pooling, cache-aware traversal, and linear-time top-k selection
 
 ---
 
 ## Featured Projects
 
-### Blockchain-Enabled Digital Twin for Wind Power Plant Management
-- Built a hybrid blockchain architecture reducing on-chain writes by **99%**
-- Processed **12,741 SCADA records** using simulation and ML forecasting
-- Developed Ethereum smart contracts for integrity verification and energy trading
+### DarkState — Automated Attack-Path Reasoning System for Cloud IAM Environments
+- Developed a cloud IAM attack-path reasoning engine to detect privilege escalation chains and blast-radius risks
+- Built graph-based security analysis pipelines using Python, FastAPI, Neo4j, NetworkX, React.js, and Cytoscape.js
+- Implemented BFS, DFS, Dijkstra, SCC detection, and minimum-cut reasoning for remediation workflows
+
+🔗 https://github.com/The-DarkState-Mini-Project/DarkState_Main
+
+---
+
+### Blockchain-Enabled Digital Twin for Wind Power Plant
+- Designed a hybrid blockchain/off-chain architecture reducing on-chain writes by 99%
+- Processed and validated 12,741 SCADA turbine records using ML forecasting pipelines with R² > 0.85 prediction fidelity
+- Built monitoring and verification modules using Python, MongoDB, Web3 integration, and Streamlit dashboards
 
 🔗 https://github.com/KavanaN12/HybridBlockchainTechForWPP
 
 ---
 
 ### HealSync — AI-Powered Medical Document Intelligence Platform
-- Built backend pipelines for **5+ medical document types**
-- Integrated OCR, NLP, and LLM-based summarization
-- Secured **2rd Place at HackMCE 2025**
+- Secured 2nd Place at HackMCE 2025, a 24-hour National-Level Hackathon conducted by Malnad College of Engineering
+- Built AI-driven medical document processing pipelines integrating OCR, LLM summarization, and secure patient workflows
+- Integrated upload, extraction, AI classification, and patient-query systems using React.js, Node.js, MongoDB, and OCR pipelines
 
 🔗 https://github.com/CoreAstra-HealSync/backend
 
 ---
 
-### JanaSwara — Public Issue Reporting Platform
-- Built a full-stack civic reporting platform using **Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript**
-- Enabled users to report, track, and monitor local public issues through a structured complaint workflow
-- Secured **3rd Place at ACM HackVenture 1.0** conducted by Student Chapter of MSRIT
+### Enhanced Static Code Vulnerability Scanner using Aho-Corasick
+- Built a high-performance static vulnerability scanner for Java and JADX-generated Android source code
+- Implemented multithreaded scanning using Java ExecutorService, reducing scan time from ~18s to ~4s
+- Detected insecure SSL usage, hardcoded credentials, and TrustManager misuse vulnerabilities
 
-🔗 https://github.com/KavanaN12/JanaSwara-public-issue-reporting-App
+🔗 https://github.com/KavanaN12
 
 ---
 
 ## Achievements
 
+🏆 Secured 2nd Place at HackMCE 2025 (24-hour National-Level Hackathon, Malnad College of Engineering)  
+🏆 Secured 3rd Place at ACM Hackventure 2025 conducted by ACM Student Chapter, MSRIT  
 🏆 Academic Scholarship Holder  
-🏆 Samsung R&D Internship  
-🏆 Hackathon Winner — HealSync (Secured **2rd Place at HackMCE 2025**), JanaSwara (**3rd Place at ACM HackVenture 1.0**)
+🏆 Participated in Smart India Hackathon (SIH)
+
+---
+
+## Certifications
+
+📜 NPTEL — Software Engineering  
+📜 NPTEL — Cloud Computing  
+📜 IBM SkillBuild — Introduction to Cloud Computing
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/kavana-n-829731274  
-- GitHub: https://github.com/KavanaN12  
+- LinkedIn: https://linkedin.com/in/kavana-n-829731274
+- GitHub: https://github.com/KavanaN12
 
 ---
 
-⭐ Always open to learning, building, and contributing to impactful systems.
+⭐ Always interested in building scalable, optimization-focused, and impactful software systems.
